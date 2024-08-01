@@ -1,0 +1,48 @@
+.topo{
+margin: 5px ;
+}
+.button{
+    padding: 5px;
+    
+}
+.botoes{
+    display: flex;
+    align-items: center;
+    padding: 50px;
+    gap: 7rem ;
+    padding-left: 300px;
+}
+.categoria{
+    
+    background-image: radial-gradient(100% 100% at 100% 0, #5adaff 0, #5468ff 100%);
+    border-radius: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 15px ;
+    cursor: pointer;  
+
+}
+.produto{
+    background-image: radial-gradient(100% 100% at 100% 0, #5adaff 0, #5468ff 100%);
+    border-radius: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 15px ;
+    cursor: pointer;
+    overflow: hidden;
+}
+.venda{
+    background-image: radial-gradient(100% 100% at 100% 0, #5adaff 0, #5468ff 100%);
+    border-radius: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 15px ;
+    cursor: pointer;
+}
+
